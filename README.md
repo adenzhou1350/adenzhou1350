@@ -34,6 +34,14 @@
 
 ## 🌟 重点项目
 
+### 🎭 [Soul Generator](https://github.com/adenzhou1350/soul-generator)
+> 为 OpenClaw 生成独特 AI 人格的工具
+
+- ✅ 16 种 MBTI 人格预设
+- ✅ 8 种角色原型（Tech Lead、Sales Wolf...）
+- ✅ 动漫/电影角色（银时、托尼史塔克）
+- ✅ 组合多个人格生成独特 AI
+
 ### 🤖 [OpenClaw Automation Suite](https://github.com/adenzhou1350/openclaw-automation)
 > 基于 OpenClaw 的 AI 个人助理自动化工具集
 
@@ -47,6 +55,19 @@
 
 - 天气查询 | 提醒功能 | 监控系统
 - 星座运势 | 记忆系统 | 图片生成
+- 💡 包含 soul-generator 人格生成技能
+
+---
+
+## 🚀 一键配置你的 AI 助手
+
+```bash
+# 克隆 soul-generator
+git clone https://github.com/adenzhou1350/soul-generator.git
+
+# 生成人格
+python3 soul_generator.py --combine mbti/ENFP archetype/tech-lead --name 我的AI
+```
 
 ---
 
