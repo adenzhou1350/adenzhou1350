@@ -67,9 +67,9 @@ python3 soul_generator.py --combine mbti/ENFP archetype/tech-lead --name 我的A
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adenzhou1350/adenzhou1350/output/github-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adenzhou1350/adenzhou1350/output/github-snake.svg?v=2" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/adenzhou1350/adenzhou1350/output/github-snake.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/adenzhou1350/adenzhou1350@output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/adenzhou1350/adenzhou1350@output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://cdn.jsdelivr.net/gh/adenzhou1350/adenzhou1350@output/github-snake.svg" />
   </picture>
 </div>
 
