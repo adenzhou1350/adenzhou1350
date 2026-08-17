@@ -66,11 +66,7 @@ python3 soul_generator.py --combine mbti/ENFP archetype/tech-lead --name 我的A
 ### 🐍 贡献贪吃蛇
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
-    <img alt="github contribution snake animation" src="./images/github-snake.svg" />
-  </picture>
+  <img alt="github contribution snake animation" src="./images/github-snake.svg" width="100%" />
 </div>
 
 ---
