@@ -17,7 +17,6 @@
 |------|------|------|
 | 🎭 **[Soul Generator](https://github.com/adenzhou1350/soul-generator)** | 为 OpenClaw 生成独特 AI 人格的工具 | 16 种 MBTI 预设 · 8 种角色原型 · 动漫/电影角色 · 多人格组合 |
 | 🤖 **[OpenClaw Automation Suite](https://github.com/adenzhou1350/openclaw-automation)** | 基于 OpenClaw 的 AI 助理自动化工具集 | 天气早报 · 系统监控告警 · 定时任务 · 多平台通知 |
-| 🎯 **[OpenClaw Skills](https://github.com/adenzhou1350/openclaw-skills)** | 可复用的 OpenClaw 技能包 | 天气/提醒/监控 · 星座/记忆/图片生成 · 内置人格生成 |
 | 🌀 **[minimind-diffusion](https://github.com/adenzhou1350/minimind-diffusion)** | 在 [minimind](https://github.com/jingyaogong/minimind) 基础上重构为 diffusion 架构的轻量实现 | 架构改造 · 学习复现 · 致谢原作者 [@jingyaogong](https://github.com/jingyaogong) |
 
 ---
