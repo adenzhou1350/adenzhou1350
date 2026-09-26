@@ -2,7 +2,7 @@
 
 I build LLM inference and research tools, and contribute fixes to serving systems. Recent changes have been merged into Mooncake, vLLM, and LMDeploy. I care about reproducible bugs, measured performance, and changes that are useful upstream.
 
-我关注大模型推理系统、GPU 性能与自动研究工具。近期工作横跨 vLLM、SGLang、Mooncake 和算子优化：先确认真实瓶颈与正确性，再用可复现的实验推进改动。
+我关注大模型推理系统、GPU 性能与自动研究工具。Mooncake、vLLM 和 LMDeploy 已有合并贡献，也持续在 SGLang 等项目中提交修复。我重视真实瓶颈、正确性与可复现的实验。
 
 ## Selected upstream work
 
