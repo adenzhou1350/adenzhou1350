@@ -1,6 +1,10 @@
-# 你好，我是 Aden 👋
+# 你好，我是 Aden
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&pause=1400&color=5EEAD4&vCenter=true&width=420&lines=%E5%86%99%E7%82%B9%E6%9C%89%E7%94%A8%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7;%E6%8B%86%E8%A7%A3%E5%A5%87%E6%80%AA%E7%9A%84+bug;%E6%85%A2%E6%85%A2%E5%AD%A6%E6%87%82%E6%8E%A8%E7%90%86%E7%B3%BB%E7%BB%9F" alt="写点有用的小工具、拆解奇怪的 bug、慢慢学懂推理系统" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&pause=1400&color=5EEAD4&vCenter=true&width=300&lines=%E5%86%99%E7%82%B9%E6%9C%89%E7%94%A8%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7;%E6%8B%86%E8%A7%A3%E5%A5%87%E6%80%AA%E7%9A%84+bug;%E6%85%A2%E6%85%A2%E5%AD%A6%E6%87%82%E6%8E%A8%E7%90%86%E7%B3%BB%E7%BB%9F" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&pause=1400&color=0F766E&vCenter=true&width=300&lines=%E5%86%99%E7%82%B9%E6%9C%89%E7%94%A8%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7;%E6%8B%86%E8%A7%A3%E5%A5%87%E6%80%AA%E7%9A%84+bug;%E6%85%A2%E6%85%A2%E5%AD%A6%E6%87%82%E6%8E%A8%E7%90%86%E7%B3%BB%E7%BB%9F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&pause=1400&color=0F766E&vCenter=true&width=300&lines=%E5%86%99%E7%82%B9%E6%9C%89%E7%94%A8%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7;%E6%8B%86%E8%A7%A3%E5%A5%87%E6%80%AA%E7%9A%84+bug;%E6%85%A2%E6%85%A2%E5%AD%A6%E6%87%82%E6%8E%A8%E7%90%86%E7%B3%BB%E7%BB%9F" alt="写点有用的小工具、拆解奇怪的 bug、慢慢学懂推理系统" />
+</picture>
 
 我喜欢把想法做成能用的小工具，主要在折腾 AI Agent 和自动化。最近也在学习大模型推理：复现问题、读代码，再尝试提交小修复。
 
