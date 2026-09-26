@@ -1,6 +1,6 @@
 # Hi, I'm Aden 👋
 
-I work on LLM inference systems, GPU performance, and research tooling. I care about changes that are reproducible, measurable, and useful upstream.
+I build LLM inference and research tools, and contribute fixes to serving systems. Recent changes have been merged into Mooncake, vLLM, and LMDeploy. I care about reproducible bugs, measured performance, and changes that are useful upstream.
 
 我关注大模型推理系统、GPU 性能与自动研究工具。近期工作横跨 vLLM、SGLang、Mooncake 和算子优化：先确认真实瓶颈与正确性，再用可复现的实验推进改动。
 
@@ -12,6 +12,13 @@ I work on LLM inference systems, GPU performance, and research tooling. I care a
 | [vLLM](https://github.com/vllm-project/vllm/pull/56882) | Preserve DeepSeek V4 image block spacing · merged | Fixed multimodal prompt formatting without changing the intended image content. |
 | [LMDeploy](https://github.com/InternLM/lmdeploy/pull/5000) | Restore `getenv` after parsing errors · merged | Kept environment parsing from leaving process state modified on failure. |
 | [PyTorch AO](https://github.com/pytorch/ao/pull/4948) | Handle scalar and vector transpose in PT2E x86 lowering · open | Preserved the identity behavior of `torch.t` below rank two and added regression cases. |
+
+## Projects I build
+
+| Project | What you can explore |
+| --- | --- |
+| [minimind-diffusion](https://github.com/adenzhou1350/minimind-diffusion) | A compact PyTorch path from training to evaluation for text and multimodal diffusion language models. The README explains the design and records limitations found in small-model experiments. |
+| [soul-generator](https://github.com/adenzhou1350/soul-generator) | A reusable OpenClaw persona skill with presets and three ways to create a new persona: a public figure, a personality type, or a custom description. |
 
 ## Current focus
 
