@@ -13,6 +13,8 @@ I build LLM inference and research tools, and contribute fixes to serving system
 | [LMDeploy](https://github.com/InternLM/lmdeploy/pull/5000) | Restore `getenv` after parsing errors · merged | Kept environment parsing from leaving process state modified on failure. |
 | [PyTorch AO](https://github.com/pytorch/ao/pull/4948) | Handle scalar and vector transpose in PT2E x86 lowering · open | Preserved the identity behavior of `torch.t` below rank two and added regression cases. |
 
+[Read three short case studies with validation evidence](CONTRIBUTIONS.md).
+
 ## Projects I build
 
 | Project | What you can explore |
