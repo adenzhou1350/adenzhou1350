@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/aden-systems.svg" alt="Aden Zhou — LLM inference, performance engineering, and research tools" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/aden-systems-mobile.svg" />
+    <img src="assets/aden-systems.svg" alt="Aden Zhou — LLM inference, performance engineering, and research tools" width="100%" />
+  </picture>
 </div>
 
 <br />
