@@ -9,7 +9,7 @@
 
 ## 最近在尝试
 
-这阵子在学大模型推理，也给用到的项目提过修复：[vLLM 的图文输入修复](https://github.com/vllm-project/vllm/pull/56882)已经合并；[SGLang 的进程清理修复](https://github.com/sgl-project/sglang/pull/41310)还在审查。
+最近在摸索大模型推理系统，主要看多模态输入、KV Cache 和资源管理。也在尝试为 vLLM、SGLang、Mooncake 等项目贡献代码。
 
 联系我：[aden1350@outlook.com](mailto:aden1350@outlook.com)
 
