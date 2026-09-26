@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Aden Zhou — systems and evidence</title>
+  <desc id="desc">A dark blue banner with a simple trace diagram and the words LLM inference, performance, and research tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1728"/>
+      <stop offset="1" stop-color="#142b42"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54dccd"/>
+      <stop offset="1" stop-color="#77a8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <path d="M0 264 H1200 M0 279 H1200 M0 294 H1200" stroke="#264059" stroke-width="1" opacity=".55"/>
+  <rect x="55" y="47" width="6" height="217" rx="3" fill="url(#line)"/>
+  <text x="86" y="85" fill="#72e3d5" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">ADEN ZHOU</text>
+  <text x="82" y="151" fill="#f3f7fb" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700">Systems, measured.</text>
+  <text x="84" y="200" fill="#b8c9dc" font-family="Arial, Helvetica, sans-serif" font-size="22">LLM inference  /  performance engineering  /  research tools</text>
+  <text x="84" y="248" fill="#89a6bc" font-family="Arial, Helvetica, sans-serif" font-size="17">Trace the problem. Reproduce it. Validate the change.</text>
+  <g fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M866 89 H921 L947 128 H985 L1012 89 H1106"/>
+    <path d="M866 171 H910 L929 151 H963 L987 196 H1029 L1051 171 H1106" opacity=".65"/>
+  </g>
+  <g fill="#72e3d5">
+    <circle cx="866" cy="89" r="6"/><circle cx="1106" cy="89" r="6"/>
+    <circle cx="866" cy="171" r="6"/><circle cx="1106" cy="171" r="6"/>
+  </g>
+  <text x="867" y="241" fill="#7e9bb3" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">EVIDENCE  →  CHANGE</text>
+</svg>
