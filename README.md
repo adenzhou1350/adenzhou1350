@@ -2,10 +2,10 @@
 
 平时写 AI Agent 和自动化工具。
 
-自己做的项目：
+最近做的两个小项目：
 
-- [minimind-diffusion](https://github.com/adenzhou1350/minimind-diffusion)：小模型的文本和多模态扩散实验。
-- [soul-generator](https://github.com/adenzhou1350/soul-generator)：给 OpenClaw 生成可复用的人格配置。
+- [minimind-diffusion](https://github.com/adenzhou1350/minimind-diffusion)：从训练到采样，试着用小模型理解文本和图文扩散。
+- [soul-generator](https://github.com/adenzhou1350/soul-generator)：把想要的助手风格整理成一份可编辑的 SOUL.md。
 
 ## 最近在尝试
 
