@@ -10,7 +10,7 @@
 
 | 想看什么 | 项目 | 可以做什么 |
 |---|---|---|
-| 一个能动手试的 Agent | [栖伴 Nest](https://github.com/adenzhou1350/nest-agent-public) | 连接自己的模型，处理待办、本地日历、资料查询和邮件草稿；个人 alpha |
+| 小模型如何选择动作 | [Jev 决策模型实战](https://github.com/adenzhou1350/jev-decision-teaching) | 先在 CPU 上试玩推箱子，再学习候选打分、训练与页面按钮选择；独立 Jev-style 教学实现 |
 | 低比特训练与压缩推理 | [Bonsai 风格量化教学](https://github.com/adenzhou1350/bonsai-qat-teaching) | 从 CPU 方程读到 MoE 三值 QAT、恢复与单卡推理实验，逐项检查结果 |
 | 用代码理解生成模型 | [minimind-diffusion](https://github.com/adenzhou1350/minimind-diffusion) | 用 PyTorch 学习掩码扩散，从小模型测试走到训练与采样；生成质量仍在探索 |
 | 定制自己的助手 | [soul-generator](https://github.com/adenzhou1350/soul-generator) | 把表达方式和工作习惯整理成可编辑的 SOUL.md |
