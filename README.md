@@ -28,6 +28,10 @@
 
 更多[实验与故障复盘](https://adenzhou1350.github.io/blog/)。项目里的教学实现、个人实验和 fork 分别标明来源与验证范围。
 
+## 动手制作
+
+[桐人 × 亚丝娜沉金 PCB](https://github.com/adenzhou1350/sao-enig-pcb)：用沉金、黑色阻焊和白色丝印制作双面角色图案，公开新增图层、构建脚本与复刻说明。**已打样，待实物验收。** [查看制作记录](https://adenzhou1350.github.io/blog/sao-enig-pcb/)。
+
 有模型部署、量化或 Agent 工程中的具体问题，可以写信到 [aden1350@outlook.com](mailto:aden1350@outlook.com)，附上环境、复现步骤和预期结果。
 
 <picture>
