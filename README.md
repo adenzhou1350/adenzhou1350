@@ -30,7 +30,7 @@
 
 ## 动手制作
 
-[黑金 PCB 作品集](https://github.com/adenzhou1350/enig-pcb-art)：用沉金、黑色阻焊和白色丝印制作双面角色图案，收录刀剑神域、Mob 和夏油杰的图层与工程记录。**SAO 已打样、待实物；Mob / 夏油杰为工程预览。** [查看 SAO 制作记录](https://adenzhou1350.github.io/blog/sao-enig-pcb/)。
+[黑金 PCB 作品集](https://github.com/adenzhou1350/enig-pcb-art)：用沉金、黑色阻焊和白色丝印制作双面角色图案，收录刀剑神域、Mob 和夏油杰的图层与工程记录。**SAO 已打样、待实物；Mob / 夏油杰制造文件已发布，未下单、待实物验收。** [查看 SAO 制作记录](https://adenzhou1350.github.io/blog/sao-enig-pcb/)。
 
 有模型部署、量化或 Agent 工程中的具体问题，可以写信到 [aden1350@outlook.com](mailto:aden1350@outlook.com)，附上环境、复现步骤和预期结果。
 
